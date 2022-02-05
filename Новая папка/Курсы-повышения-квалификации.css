@@ -1,0 +1,109 @@
+ .u-section-1 {
+  background-image: url("images/1617592581_30-p-fon-dlya-saita-uchitelya-34.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1134px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 20px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 1039px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-1 {
+  box-shadow: 2px -2px 8px 0 rgba(164,176,164,1);
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 1039px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-2 {
+  box-shadow: 2px -2px 8px 0 rgba(164,176,164,1);
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 729px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 857px;
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 857px;
+    background-position: 50% 50%;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 598px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 656px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 656px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1152px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 13px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 2267px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 1059px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 982px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 1427px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 892px;
+  }
+}
